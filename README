@@ -1,0 +1,4 @@
+$ mkdir ~/HIC
+$ cd ~/HIC
+git init
+$ touch README
